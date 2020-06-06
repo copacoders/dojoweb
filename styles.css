@@ -1,15 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
+
 body {
-    font-size: 3vw;
+    font-size: 1.5vw;
     background-color: #111;
     color: darkgrey;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
-    font-size: 7vw;
+    font-size: 4vw;
     color: whitesmoke;
 }
 
 h2 {
-    font-size: 5vw;
+    font-size: 3vw;
+    color: whitesmoke;
+}
+
+h3 {
+    font-size: 2vw;
     color: whitesmoke;
 }
