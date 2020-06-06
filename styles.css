@@ -2,7 +2,7 @@
 
 body {
     font-size: 1.5vw;
-    background-color: #111;
+    background-color: #1e1e1e;
     color: darkgrey;
     font-family: 'Open Sans', sans-serif;
 }
@@ -20,4 +20,13 @@ h2 {
 h3 {
     font-size: 2vw;
     color: whitesmoke;
+}
+
+a:link, a:visited {
+    color: #007acc;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
 }
