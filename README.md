@@ -1,4 +1,4 @@
-# copacodersclub
+# copacoders
 
 This project contains the official website for the [Copa Coders](https://copacoders.club), a [CoderDojo](https://coderdojo.com/) and affiliated [Code Club](https://codeclub.org)s located in [Maricopa, AZ](https://www.latlong.net/c/?lat=33.074192&long=-112.014835).
 
