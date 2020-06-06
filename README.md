@@ -1,6 +1,6 @@
 # copacodersclub
 
-The project contents make up the public website for the [Copa Coders Club](https://copacoders.club), a local chapter of [CoderDojo](https://coderdojo.com/) located in [Maricopa, AZ](https://www.latlong.net/c/?lat=33.074192&long=-112.014835).
+This project contains the official website for the [Copa Coders Club](https://copacoders.club), a [CoderDojo](https://coderdojo.com/) located in [Maricopa, AZ](https://www.latlong.net/c/?lat=33.074192&long=-112.014835).
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Students and other contributors are encouraged to fork the project from which th
 
 1. Helps students learn how to contribute to the open source community as individual contributors
 2. Learn to create pull requests and appropriate documentation, both in-line and in commits
-3. Practive maintaining forks, logging issues, participating in code reviews, etc.
+3. Practice maintaining forks, logging issues, participating in code reviews, etc.
 
 For those interested in collaborating on the project directly, please [message us](https://m.me/copacoders) or visit [our Facebook page](https://fb.me/copacoders). Only members of the Dojo, both students and adult volunteers, may join the project.
 
@@ -28,10 +28,10 @@ That's it! We highly recommend [VisualStudio Code](https://code.visualstudio.com
 Before submitting your pull request, please ensure:
 
 1. All files pertaining to your showcase should stay inside the /showcase directory. Multi-page showcases inside their own subdirectories underneath /showcase/.
-2. Only one link is included for your showcase. Your fork should include a modification of /index.html placed at the end of the ``<ul>`` in the section starting with ``<!-- Begin student showcase link list; see project README.md for details -->``. No other modifications to /index.html will be accepted for student showcases.
+2. Only one link is included for your showcase. Your fork should include a modification of /index.html placed at the end of the ``<ul>`` in the section starting with ``<!-- Begin student showcase link list -->``. No other modifications to /index.html will be accepted for student showcases.
 3. Links should be placed in order of contribution. If we receive multiple pull requests at the same time, they will be ordered as pull requests are received on GitHub. Links should include your student or GitHub username, a title and, importantly, a link to the showcase.
 4. Don't forget to watch your GitHub account notifications for feedback or your pull request may be rejected.
 
 ## Changes to our website
 
-Please note that upon accepting any pull requests, changes will still need to be merged. Our webserver will also have to sync with GitHub. Further, we have a manually executed script to sync changes with the Git repo. You will be notified when your changes go live on our website but please be patient as it may take several days, depending on the volume of pull requests we are dealing with.
+Please note that upon accepting any pull requests, changes will still need to be merged. Our webserver will also have to sync with GitHub. Further, we have a manually executed script to deploy changes from the Git repository. You will be notified when your changes go live on our website but please be patient as it may take several days, depending on the volume of pull requests we are dealing with.
