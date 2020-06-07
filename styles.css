@@ -20,7 +20,7 @@ p.callout {
     padding: 10px;
 }
 
-p.callout a:link, a:visited {
+p.callout a:link, p.callout a:visited {
     color: white;
 }
 
