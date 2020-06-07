@@ -1,29 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
 
 body {
-    font-size: 1.5vw;
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto !important;
+    float: none !important;
     background-color: #1e1e1e;
     color: darkgrey;
     font-family: 'Open Sans', sans-serif;
 }
 
+p {
+    text-align: justify;
+}
+
+p.callout {
+    background-color: #007acc;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+p.callout a:link, a:visited {
+    color: white;
+}
+
+p.callout strong {
+    color: palevioletred;
+}
+
 h1 {
-    font-size: 4vw;
+    font-size: 48px;
     color: whitesmoke;
 }
 
 h2 {
-    font-size: 3vw;
+    font-size: 36px;
     color: whitesmoke;
 }
 
 h3 {
-    font-size: 2vw;
+    font-size: 24px;
     color: whitesmoke;
 }
 
 a:link, a:visited {
-    color: #007acc;
+    color: #029aff;
 }
 
 a:hover {
