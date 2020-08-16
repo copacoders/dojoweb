@@ -63,6 +63,8 @@ In this project, you will use nested if else statements (if-else statement insid
 - If you need inspiration, you can certainly look around on the interwebs for test-based python games ( I recommmend looking for games/tutorials that are focused towards beginners )
 
 ### Run the Program 
+You can copy the code file for this project using the following link: [Python 01 - TextBased Game Code](https://github.com/copacoders/copacoders/raw/gh-pages/python/01-TextBasedGame.py)
+
 If you are reading this you've probably finished your awesome adventure game and are now trying to play it! First of all, congratulations, that's so cool and I can't wait to play it some day. 
 
 If you are using a Python IDE (coding environment), such as VS Code as suggested in the Python 0 Tutorial, you should see a green triangle hopefully at the top right corner of your screen. If you click that, that should run your program. 
